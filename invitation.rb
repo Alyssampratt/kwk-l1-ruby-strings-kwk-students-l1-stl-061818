@@ -9,4 +9,4 @@ You are incited to #{party_name} on #{date} please rsvp no later than october 30
 
 Sincerely
 
-#{host_name}""
+#{host_name}
